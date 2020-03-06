@@ -38,11 +38,6 @@ struct Contact {
 // Function Prototypes
 //------------------------------------------------------
 
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        function prototypes below...             |
-// +-------------------------------------------------+
-
 // getName:
 void getName(struct Name *);
 // getAddress:
