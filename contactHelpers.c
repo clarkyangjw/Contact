@@ -1,12 +1,3 @@
-/* -------------------------------------------
-Name:Jiawei Yang
-Student number:121134183
-Date:Nov.17 2018
-----------------------------------------------
-Assignment: 2
-Milestone:  4
----------------------------------------------- */
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
