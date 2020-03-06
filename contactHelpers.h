@@ -1,16 +1,3 @@
-/* ------------------------------------------------------------------
-Name:Jiawei Yang
-Student number:121134183
-Date:Nov.17 2018
----------------------------------------------------------------------
-Assignment: 2
-Milestone:  4
----------------------------------------------------------------------
-Description: This header file modularizes general helper functions to
-help reduce redundant coding for common repetitive tasks.
----------------------------------------------------------------------*/
-
-
 // Hint:  This header file now has functions with parameters referring to 
 //        the struct Contact type so be sure to include the contacts.h header:
 #include "contacts.h"
