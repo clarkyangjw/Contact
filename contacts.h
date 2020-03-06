@@ -7,11 +7,6 @@
 // Structure Types
 //------------------------------------------------------
 
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        structures below:                        |
-// +-------------------------------------------------+
-
 // Structure type Name declaration
 struct Name {
 	char firstName[31];
